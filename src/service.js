@@ -1,7 +1,8 @@
-export function somar(a, b){
+export function somar(a , b){
     return a + b;
 }
 
-export function dobro(n){
-    return n * 2;
+export function dobro(c){
+    return c * 2;
 }
+
